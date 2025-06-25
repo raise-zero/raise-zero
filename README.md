@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Raise— Welcome to My GitHub!
+## 👋 Hi, I'm Raise
 
 I'm a Fullstack Developer passionate about building impactful products and experimenting with bleeding-edge technology.
 
